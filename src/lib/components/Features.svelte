@@ -4,11 +4,11 @@
 <section class="bg-[#f0efeb] py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <div class="mb-24">
-      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your main home might get jealous</h2>
+      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your sommelier might get jealous</h2>
       <div class="h-[600px] rounded-2xl overflow-hidden relative">
         <img 
-          src="https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=2070&auto=format&fit=crop" 
-          alt="Main home jealous" 
+          src="/generated/image-close-up-of-wine-bottles-arranged-on-woo-1765524754967-4.webp" 
+          alt="Wine collection" 
           class="w-full h-full object-cover"
         />
       </div>
@@ -19,14 +19,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2070&auto=format&fit=crop" 
-            alt="Living room" 
+            src="https://images.unsplash.com/photo-1474722883778-ab3ea8f8b4e0?q=80&w=2070&auto=format&fit=crop" 
+            alt="AI analysis" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Designed to live big.</h3>
+        <h3 class="text-xl font-normal mb-2">AI that learns your taste.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Despite its small footprint, Backyard feels like a full-sized home, thanks to airy cathedral ceilings, well-proportioned layouts, and never built-in storage.
+          Our taste learning algorithms analyze every rating and preference, getting smarter with each pairing. The more you use PairsWell, the better it understands your palate.
         </p>
       </div>
 
@@ -34,14 +34,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=2068&auto=format&fit=crop" 
-            alt="Kitchen" 
+            src="/generated/image-wine-collector-examining-a-wine-bottle-l-1765524748725-1.webp" 
+            alt="Cellar integration" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Kitchens worth cooking in.</h3>
+        <h3 class="text-xl font-normal mb-2">Instant cellar insights.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Premium, fully electric, and impeccably beautiful. The induction cooktop boils water in seconds. An integrated dishwasher cleans up in silence.
+          Scan your collection once and get instant access to pairing recommendations. Know exactly which bottle to open for any meal, occasion, or guest preference.
         </p>
       </div>
     </div>
